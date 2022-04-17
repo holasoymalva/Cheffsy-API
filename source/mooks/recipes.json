@@ -1,0 +1,25 @@
+{
+    "recipes":[
+        {
+            "name":"Demo",
+            "ingredients":"",
+            "steps":"",
+            "image":"https://world.openfoodfacts.org/ingredient/sugar",
+            "category":""
+        },
+        {
+            "name":"Demo 2",
+            "ingredients":"",
+            "steps":"",
+            "image":"https://world.openfoodfacts.org/ingredient/sugar",
+            "category":""
+        },
+        {
+            "name":"Demo 3",
+            "ingredients":"",
+            "steps":"",
+            "image":"https://world.openfoodfacts.org/ingredient/sugar",
+            "category":""
+        }
+    ]
+}

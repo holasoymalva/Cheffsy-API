@@ -1,0 +1,28 @@
+{
+  "name": "cheffsy-api",
+  "version": "1.0.0",
+  "description": "recipes api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malvabombom/Cheffsy-API.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "malvabombom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malvabombom/Cheffsy-API/issues"
+  },
+  "homepage": "https://github.com/malvabombom/Cheffsy-API#readme",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-middlewares": "^6.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
